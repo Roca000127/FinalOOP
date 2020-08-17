@@ -3,8 +3,8 @@
 <head>
 
     <title>Mi proyecto final </title>
-<head>
+<head>Angel Manuel Rodriguez Cebreros</head>
 <body>
-    <h6< este es mi proyecto final de la clase de Programacion Orientada a objetos</h6>
+    <h2<este es mi proyecto final de la clase de Programacion Orientada a objetos</h2>
 </body>
 </html>
